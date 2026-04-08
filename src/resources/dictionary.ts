@@ -14,6 +14,25 @@ const chinaExam: DictionaryResource[] = [
     language: 'en',
     languageCategory: 'en',
   },
+
+
+
+  
+  {
+  id: 'my_words',
+  name: 'My Words',
+  description: '我的生词本',
+  category: '英语词典',
+  tags: ['课外词汇'],
+  url: '/dicts/my_words.json',
+  length: 4,
+  language: 'en',
+  languageCategory: 'en',
+  }，
+
+
+
+
   {
     id: 'cet6',
     name: 'CET-6',
