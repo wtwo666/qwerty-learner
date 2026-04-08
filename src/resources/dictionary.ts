@@ -28,7 +28,7 @@ const chinaExam: DictionaryResource[] = [
   length: 4,
   language: 'en',
   languageCategory: 'en',
-  }，
+  },
 
 
 
